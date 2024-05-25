@@ -1,0 +1,11 @@
+.deux-colonne {
+    display: flex;
+    justify-content: space-between;
+}
+.colonne-1 {
+    flex: 1;
+    margin-right: 20px;
+}
+.colonne-2 {
+    flex: 1;
+}
